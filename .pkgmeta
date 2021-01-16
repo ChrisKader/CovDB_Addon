@@ -1,0 +1,7 @@
+package-as: CovDB
+
+move-folders:
+    KillerCupcakes/Modules/Fire: KillerCupcakesOnFire # This moves KillerCupcakes/Modules/Fire to the same level as KillerCupcakes, as KillerCupCakesOnFire
+    KillerCupcakes/Modules/Sky: KillerCupcakesInTheSky
+
+manual-changelog: CHANGELOG.md

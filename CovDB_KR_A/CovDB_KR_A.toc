@@ -1,0 +1,8 @@
+## Interface: 90002
+## Title: CovDB |cffFFFFFFCovenant DB|r (KR - Alliance)
+## Author: Online
+## Dependencies: CovDB
+## Version: 1.0.0-20210116
+## Notes: Covenant Database for Alliance characters in the KR region
+
+../CovDB/db/db_characters_kr_alliance.lua

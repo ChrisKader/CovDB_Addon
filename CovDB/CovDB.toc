@@ -1,0 +1,15 @@
+## Interface: 90002
+## Title: CovDB
+## Author: Online
+## Version: 1.0.0
+## Notes: Show Covenant information on tooltips
+
+CovDB.lua
+db/db_characters_eu_alliance.lua
+db/db_characters_eu_horde.lua
+db/db_characters_us_alliance.lua
+db/db_characters_us_horde.lua
+db/db_characters_kr_alliance.lua
+db/db_characters_kr_horde.lua
+db/db_characters_tw_alliance.lua
+db/db_characters_tw_horde.lua

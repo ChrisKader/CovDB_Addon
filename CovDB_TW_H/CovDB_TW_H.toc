@@ -1,0 +1,8 @@
+## Interface: 90002
+## Title: CovDB |cffFFFFFFCovenant DB|r (TW - Horde)
+## Author: Online
+## Dependencies: CovDB
+## Version: 1.0.0-20210116
+## Notes: Covenant Database for Horde characters in the TW region
+
+../CovDB/db/db_characters_tw_horde.lua

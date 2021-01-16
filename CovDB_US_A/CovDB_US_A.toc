@@ -1,0 +1,8 @@
+## Interface: 90002
+## Title: CovDB |cffFFFFFFCovenant DB|r (US - Alliance)
+## Author: Online
+## Dependencies: CovDB
+## Version: 1.0.0-20210116
+## Notes: Covenant Database for Alliance characters in the US region
+
+../CovDB/db/db_characters_us_alliance.lua

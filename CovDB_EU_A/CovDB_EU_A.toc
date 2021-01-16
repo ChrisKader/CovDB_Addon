@@ -1,0 +1,8 @@
+## Interface: 90002
+## Title: CovDB |cffFFFFFFCovenant DB|r (EU - Alliance)
+## Author: Online
+## Dependencies: CovDB
+## Version: 1.0.0-20210116
+## Notes: Covenant Database for Alliance characters in the EU region
+
+../CovDB/db/db_characters_eu_alliance.lua

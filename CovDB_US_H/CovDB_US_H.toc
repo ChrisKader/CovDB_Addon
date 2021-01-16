@@ -2,7 +2,7 @@
 ## Title: CovDB |cffFFFFFFCovenant DB|r (US - Horde)
 ## Author: Online
 ## Dependencies: CovDB
-## Version: 1.1.0-20210117
+## Version: 1.1.0-20210116
 ## Notes: Covenant Database for Horde characters in the US region
 
 ../CovDB/db/db_characters_us_horde.lua
